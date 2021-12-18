@@ -1,0 +1,1 @@
+import OmiseTS from 'omise-js-typed'
