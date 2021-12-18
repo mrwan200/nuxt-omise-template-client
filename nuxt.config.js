@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'omise-api-test',
+    title: 'Nuxt Omise Tempalte',
     htmlAttrs: {
       lang: 'en',
     },
