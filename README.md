@@ -1,4 +1,4 @@
-# omise-api-test
+# Nuxt Omise Template (Client)
 
 ## Build Setup
 
